@@ -1,2 +1,2 @@
-# DevOps Project-4
-MEAN STACK DEPLOYMENT
+# DevOps Project4
+MEAN Stack Deployment
